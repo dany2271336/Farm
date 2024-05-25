@@ -1,0 +1,237 @@
+{
+  "uuid": "9b3dacf54a7a99bc15bf0055567c0e33",
+  "path": "Offline/ферма",
+  "name": "ферма",
+  "content": "",
+  "created_at": "2024-05-22 02:57:51",
+  "updated_at": "2024-05-23 01:53:59",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "c3965c48b28f4ad0d38252a10eef9439",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "b7adf400643b4936be8b786704d0e70f": 1,
+        "978dd86cb8f545279789152357b8a3b4": 1,
+        "a68dc5e6a9944c46b7604648a43dcd65": 2,
+        "a052559478a14ee2b9e3514bee4ff72d": 1,
+        "a9aa2b14f188405792fa87ac344499a4": 1,
+        "f5b1d9403e49471cab43bc5a1bec336f": 2,
+        "5d56951fd43d4b5083b0f3cd9bfd5587": 2,
+        "3ec77201bbcd4ecd8722658d581a4e60": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "HDR-M-2.54_1x5",
+          1,
+          "HDR-M-2.54_1X5",
+          "ENCBUTTON",
+          {
+            "Supplier Part": "C358687",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-M-2.54_1x5",
+            "puuid": "108969f8d9834a9ea23bcec2d43a66e4",
+            "uuid": "a052559478a14ee2b9e3514bee4ff72d"
+          }
+        ],
+        [
+          "Voltage",
+          1,
+          "HDR-F-2.54_1X2",
+          "H1",
+          {
+            "Supplier Part": "C49661",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "image": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-F-2.54_1x2",
+            "puuid": "36b1306a115341f4b4d9407fb34974e0",
+            "uuid": "3ec77201bbcd4ecd8722658d581a4e60"
+          }
+        ],
+        [
+          "LCD",
+          1,
+          "HDR-M-2.54_1X4",
+          "J2",
+          {
+            "Supplier Part": "C124378",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-M-2.54_1x4",
+            "puuid": "282f7786cb6144d097ae00194c3e3fb3",
+            "uuid": "f5b1d9403e49471cab43bc5a1bec336f"
+          }
+        ],
+        [
+          "RTC",
+          1,
+          "HDR-M-2.54_1X4",
+          "J3",
+          {
+            "Supplier Part": "C124378",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-M-2.54_1x4",
+            "puuid": "282f7786cb6144d097ae00194c3e3fb3",
+            "uuid": "f5b1d9403e49471cab43bc5a1bec336f"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x2",
+          1,
+          "HDR-M-2.54_1X2",
+          "PUMP",
+          {
+            "Supplier Part": "C124375",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-M-2.54_1x2",
+            "puuid": "70aa5812f21f4991bf427395d51849f4",
+            "uuid": "a9aa2b14f188405792fa87ac344499a4"
+          }
+        ],
+        [
+          "2N7002",
+          1,
+          "TO-92-3_L4.8-W3.7-P1.27-L",
+          "Q1",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "Nexperia",
+            "Manufacturer Part": "2N7002,215",
+            "image": "//image.lceda.cn/szlcsc/C65189.jpg",
+            "Supplier Part": "C65189",
+            "Paste Type": "expand",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "2N7002",
+            "puuid": "a318b1558bd44791bcbb082864a7c0c6",
+            "uuid": "978dd86cb8f545279789152357b8a3b4"
+          }
+        ],
+        [
+          "100",
+          1,
+          "R_AXIAL-0.3",
+          "R1",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_AXIAL-0.3_EU",
+            "Manufacturer Part": "",
+            "puuid": "3eb1249f3ebb4284ae221b0379016582",
+            "uuid": "5d56951fd43d4b5083b0f3cd9bfd5587"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R_AXIAL-0.3",
+          "R2",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_AXIAL-0.3_EU",
+            "Manufacturer Part": "",
+            "puuid": "3eb1249f3ebb4284ae221b0379016582",
+            "uuid": "5d56951fd43d4b5083b0f3cd9bfd5587"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x3",
+          2,
+          "HDR-M-2.54_1X3",
+          "RELAY,SMS",
+          {
+            "Supplier Part": "C180248",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "image": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-M-2.54_1x3",
+            "puuid": "9f77654394344f25b3de138e0fe05ff6",
+            "uuid": "a68dc5e6a9944c46b7604648a43dcd65"
+          }
+        ],
+        [
+          "ARDUINO_NANO",
+          1,
+          "COMM-TH_ARDUINO_NANO",
+          "U1",
+          {
+            "Contributor": "lcsc",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900017879",
+            "Manufacturer": "null",
+            "Manufacturer Part": "ARDUINO_NANO",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "ARDUINO_NANO",
+            "puuid": "ff6e2030776d4574a7594ce501bb86c5",
+            "uuid": "b7adf400643b4936be8b786704d0e70f"
+          }
+        ]
+      ],
+      "updateTime": 1716415387,
+      "createTime": 1716335871,
+      "histories": [],
+      "created_at": "2024-05-22 02:57:51",
+      "updated_at": "2024-05-23 01:03:07"
+    },
+    {
+      "uuid": "66e5e720b9ce11e8277af7d25cde5c39",
+      "puuid": "9b3dacf54a7a99bc15bf0055567c0e33",
+      "title": "PCB_ферма",
+      "filename": "PCB_ферма.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "108969f8d9834a9ea23bcec2d43a66e4": 1,
+        "282f7786cb6144d097ae00194c3e3fb3": 4,
+        "70aa5812f21f4991bf427395d51849f4": 1,
+        "3eb1249f3ebb4284ae221b0379016582": 2,
+        "9f77654394344f25b3de138e0fe05ff6": 2,
+        "ff6e2030776d4574a7594ce501bb86c5": 1,
+        "36b1306a115341f4b4d9407fb34974e0": 1,
+        "a318b1558bd44791bcbb082864a7c0c6": 1
+      },
+      "BOM": [],
+      "updateTime": 1716418439,
+      "createTime": 1716412501,
+      "histories": [],
+      "created_at": "2024-05-23 00:15:01",
+      "updated_at": "2024-05-23 01:53:59"
+    }
+  ],
+  "sort": [],
+  "title": "ферма",
+  "foldername": "ферма",
+  "schfilename": "ферма.json",
+  "schfilemtime": 1716415387403
+}
